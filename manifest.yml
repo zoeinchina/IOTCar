@@ -4,5 +4,5 @@ applications:
   instances: 1
   domain: mybluemix.net
   name: ZoeDriveCar
-  host: IBM518-PB22VT7
+  host: ZoeDriveCar
   disk_quota: 1024M
